@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.16.0"
   latestRelease: "v1.16.0"
   latestPrerelease: "v0.8.4"
-  collectedAt: 2026-09-09T05:59:38Z
+  collectedAt: 2026-09-09T20:19:56Z
 timeline:
   created: 2019-01-18
   lastCommit: 2026-09-08
@@ -85,7 +85,7 @@ total:
   commit: 1795
 ---
 path: /home/runner/.x-repo/github.com/laixintao/iredis
-collectedAt: 2026-09-09T05:59:40Z
+collectedAt: 2026-09-09T20:19:57Z
 loc:
   Json:
     code: 18333
