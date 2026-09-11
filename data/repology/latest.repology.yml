@@ -1,14 +1,42 @@
-- repo: nix_unstable
+- repo: raspbian_oldstable
+  subrepo: main
   srcname: iredis
+  binnames:
+    - iredis
+  visiblename: iredis
+  version: 1.13.0
+  origversion: 1.13.0-1
+  status: outdated
+  maintainers:
+    - daniel.baumann@progress-linux.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: iredis
+  binnames:
+    - iredis
+  visiblename: iredis
+  version: 1.15.1
+  origversion: 1.15.1-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: iredis
+  binnames:
+    - iredis
   visiblename: iredis
   version: 1.16.1
-  origversion: null
+  origversion: 1.16.1-2
   status: newest
-  summary: Terminal Client for Redis with AutoCompletion and Syntax Highlighting
   maintainers:
-    - phanirithvij2000@gmail.com
-  licenses:
-    - BSD-3-Clause
+    - daniel@debian.org
+  categories:
+    - misc
 - repo: aur
   srcname: iredis
   binname: iredis
@@ -182,6 +210,17 @@
     - phanirithvij2000@gmail.com
   licenses:
     - BSD-3-Clause
+- repo: nix_unstable
+  srcname: iredis
+  visiblename: iredis
+  version: 1.16.1
+  origversion: null
+  status: newest
+  summary: Terminal Client for Redis with AutoCompletion and Syntax Highlighting
+  maintainers:
+    - phanirithvij2000@gmail.com
+  licenses:
+    - BSD-3-Clause
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: iredis
@@ -235,45 +274,6 @@
     - daniel@debian.org
   categories:
     - database
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: iredis
-  binnames:
-    - iredis
-  visiblename: iredis
-  version: 1.13.0
-  origversion: 1.13.0-1
-  status: outdated
-  maintainers:
-    - daniel.baumann@progress-linux.org
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: iredis
-  binnames:
-    - iredis
-  visiblename: iredis
-  version: 1.15.1
-  origversion: 1.15.1-2
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: iredis
-  binnames:
-    - iredis
-  visiblename: iredis
-  version: 1.16.1
-  origversion: 1.16.1-2
-  status: newest
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - misc
 - repo: termux
   srcname: iredis
   binname: iredis
