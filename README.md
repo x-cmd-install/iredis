@@ -4,7 +4,7 @@
 
 Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 
-![iredis](https://repo.x-cmd.io/iredis.svg)
+[![x-cmd/install — iredis Code Quality Monitoring Repo Card](https://repo.x-cmd.io/iredis.svg)](https://x-cmd.com/install/iredis)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install iredis
 
 ## Code insight
 
-Total: **27,098** lines of code across **68** files in the top 5 languages.
+Total: **27,106** lines of code across **68** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 18,333 | 0 | 0 | 1 |
-| Python | 8,196 | 208 | 1,320 | 64 |
+| Python | 8,204 | 208 | 1,324 | 64 |
 | Css | 270 | 0 | 24 | 1 |
 | Svg | 210 | 0 | 4 | 1 |
 | Toml | 48 | 1 | 6 | 1 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.16.0` (2026-02-20)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 2,744 · **Forks**: 120 · **Open issues**: 227 · **Contributors**: 34
+- **Stars**: 2,744 · **Forks**: 120 · **Open issues**: 227 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 264 · **Open PRs**: 1 · **Closed issues**: 177 · **Open issues**: 50 · **Commits**: 1797
+- **Releases**: 47 · **Merged PRs**: 265 · **Open PRs**: 0 · **Closed issues**: 178 · **Open issues**: 49 · **Commits**: 1799
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-07-20 | 0 | 2 | 1 | 0 | 0 | 2 |
-| 90d | 2026-06-20 | 0 | 3 | 1 | 0 | 0 | 3 |
-| last180d | 2026-03-22 | 0 | 7 | 1 | 0 | 0 | 9 |
-| 360d | 2025-09-23 | 1 | 20 | 1 | 5 | 0 | 50 |
-| last720d | 2024-09-28 | 3 | 22 | 1 | 8 | 1 | 92 |
+| 30d | 2026-08-21 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-22 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-22 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-24 | 0 | 8 | 0 | 0 | 0 | 6 |
+| 360d | 2025-09-25 | 1 | 21 | 0 | 5 | 0 | 51 |
+| last720d | 2024-09-30 | 3 | 23 | 0 | 8 | 1 | 94 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for iredis lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:30:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:10:49Z._
