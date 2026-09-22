@@ -14,25 +14,25 @@ x install iredis
 
 ## 代码洞察
 
-合计: **27,106** 行代码（覆盖前 5 种语言、共 **68** 个文件）。
+合计: **27,241** 行代码（覆盖前 5 种语言、共 **72** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 18,333 | 0 | 0 | 1 |
-| Python | 8,204 | 208 | 1,324 | 64 |
+| Python | 8,339 | 210 | 1,373 | 68 |
 | Css | 270 | 0 | 24 | 1 |
 | Svg | 210 | 0 | 4 | 1 |
 | Toml | 48 | 1 | 6 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.8 / 10**
+总评分: **4.1 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install iredis
 ## 发布
 
 - **最新版本**: `v1.16.0` (2026-02-20)
-- **最近提交**: 2026-09-18
+- **最近提交**: 2026-09-21
 
 ## 流行度
 
@@ -51,18 +51,18 @@ x install iredis
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 265 · **开放 PR**: 0 · **已关闭 issue**: 178 · **开放 issue**: 49 · **提交数**: 1799
+- **发布数**: 47 · **已合并 PR**: 269 · **开放 PR**: 1 · **已关闭 issue**: 179 · **开放 issue**: 48 · **提交数**: 1809
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-23 | 0 | 3 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-23 | 0 | 4 | 0 | 0 | 0 | 4 |
-| last180d | 2026-03-25 | 0 | 8 | 0 | 0 | 0 | 6 |
-| 360d | 2025-09-26 | 1 | 21 | 0 | 5 | 0 | 51 |
-| last720d | 2024-10-01 | 3 | 23 | 0 | 8 | 1 | 94 |
+| 30d | 2026-08-23 | 0 | 7 | 1 | 0 | 0 | 9 |
+| last60d | 2026-07-24 | 0 | 7 | 1 | 0 | 0 | 9 |
+| 90d | 2026-06-24 | 0 | 8 | 1 | 0 | 0 | 10 |
+| last180d | 2026-03-26 | 0 | 12 | 1 | 0 | 0 | 12 |
+| 360d | 2025-09-27 | 1 | 25 | 1 | 5 | 0 | 57 |
+| last720d | 2024-10-02 | 3 | 27 | 1 | 8 | 1 | 104 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ iredis 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T06:25:00Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T06:19:31Z._
