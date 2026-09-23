@@ -4,7 +4,7 @@
 
 Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 
-[![x-cmd/install — iredis Code Quality Monitoring Repo Card](https://repo.x-cmd.io/iredis.svg?lang=zh)](https://x-cmd.com/install/iredis)
+[![x-cmd/install — iredis Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/iredis.svg?lang=zh)](https://x-cmd.com/install/iredis)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install iredis
 
 ## 流行度
 
-- **Star**: 2,744 · **Fork**: 120 · **开放 issue**: 227 · **贡献者**: 35
+- **Star**: 2,751 · **Fork**: 120 · **开放 issue**: 227 · **贡献者**: 35
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install iredis
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 7 | 1 | 0 | 0 | 9 |
-| last60d | 2026-07-24 | 0 | 7 | 1 | 0 | 0 | 9 |
-| 90d | 2026-06-24 | 0 | 8 | 1 | 0 | 0 | 10 |
-| last180d | 2026-03-26 | 0 | 12 | 1 | 0 | 0 | 12 |
-| 360d | 2025-09-27 | 1 | 25 | 1 | 5 | 0 | 57 |
-| last720d | 2024-10-02 | 3 | 27 | 1 | 8 | 1 | 104 |
+| 30d | 2026-08-24 | 0 | 7 | 1 | 0 | 0 | 9 |
+| last60d | 2026-07-25 | 0 | 7 | 1 | 0 | 0 | 9 |
+| 90d | 2026-06-25 | 0 | 8 | 1 | 0 | 0 | 10 |
+| last180d | 2026-03-27 | 0 | 11 | 1 | 0 | 0 | 12 |
+| 360d | 2025-09-28 | 1 | 25 | 1 | 5 | 0 | 57 |
+| last720d | 2024-10-03 | 3 | 27 | 1 | 8 | 1 | 104 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ iredis 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:19:31Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:21:13Z._
