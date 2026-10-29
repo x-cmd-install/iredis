@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 269 · **Open PRs**: 1 · **Closed issues**: 179 · **Open issues**: 48 · **Commits**: 1809
+- **Releases**: 47 · **Merged PRs**: 269 · **Open PRs**: 2 · **Closed issues**: 179 · **Open issues**: 48 · **Commits**: 1809
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-29 | 0 | 7 | 1 | 0 | 0 | 9 |
-| 90d | 2026-07-30 | 0 | 7 | 1 | 0 | 0 | 9 |
-| last180d | 2026-05-01 | 0 | 9 | 1 | 0 | 0 | 11 |
-| 360d | 2025-11-02 | 1 | 25 | 1 | 5 | 0 | 57 |
-| last720d | 2024-11-07 | 3 | 27 | 1 | 8 | 1 | 104 |
+| 30d | 2026-09-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-30 | 0 | 7 | 2 | 0 | 0 | 9 |
+| 90d | 2026-07-31 | 0 | 7 | 2 | 0 | 0 | 9 |
+| last180d | 2026-05-02 | 0 | 9 | 2 | 0 | 0 | 11 |
+| 360d | 2025-11-03 | 1 | 25 | 2 | 5 | 0 | 57 |
+| last720d | 2024-11-08 | 3 | 27 | 2 | 8 | 1 | 104 |
 
 ## Distribution status
 
@@ -88,4 +88,4 @@ Install metadata for iredis lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:45:10Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:00:53Z._
