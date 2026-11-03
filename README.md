@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.16.0` (2026-02-20)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 269 · **Open PRs**: 2 · **Closed issues**: 179 · **Open issues**: 48 · **Commits**: 1809
+- **Releases**: 47 · **Merged PRs**: 270 · **Open PRs**: 1 · **Closed issues**: 179 · **Open issues**: 48 · **Commits**: 1811
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 0 | 6 | 2 | 0 | 0 | 7 |
-| 90d | 2026-08-04 | 0 | 7 | 2 | 0 | 0 | 9 |
-| last180d | 2026-05-06 | 0 | 9 | 2 | 0 | 0 | 10 |
-| 360d | 2025-11-07 | 1 | 24 | 2 | 5 | 0 | 56 |
-| last720d | 2024-11-12 | 3 | 27 | 2 | 8 | 1 | 104 |
+| 30d | 2026-10-04 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-04 | 0 | 7 | 1 | 0 | 0 | 8 |
+| 90d | 2026-08-05 | 0 | 8 | 1 | 0 | 0 | 10 |
+| last180d | 2026-05-07 | 0 | 10 | 1 | 0 | 0 | 11 |
+| 360d | 2025-11-08 | 1 | 25 | 1 | 5 | 0 | 57 |
+| last720d | 2024-11-13 | 3 | 28 | 1 | 8 | 1 | 106 |
 
 ## Distribution status
 
@@ -88,4 +88,4 @@ Install metadata for iredis lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:15:37Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:04:01Z._
