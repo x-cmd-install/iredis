@@ -57,27 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-04 | 0 | 7 | 1 | 0 | 0 | 8 |
-| 90d | 2026-08-05 | 0 | 8 | 1 | 0 | 0 | 10 |
-| last180d | 2026-05-07 | 0 | 10 | 1 | 0 | 0 | 11 |
-| 360d | 2025-11-08 | 1 | 25 | 1 | 5 | 0 | 57 |
-| last720d | 2024-11-13 | 3 | 28 | 1 | 8 | 1 | 106 |
-
-## Distribution status
-
-Reported by **30** distros on [repology.org](https://repology.org/project/iredis). **12** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.16.1` | ✅ latest |
-| Debian 14 | `1.16.1` | ✅ latest |
-| Debian 13 | `1.15.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.15.2` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.14.1` | ⚠️ outdated |
-| Homebrew | `1.16.1` | ✅ latest |
-| Nix unstable | `1.16.1` | ✅ latest |
-| openSUSE Tumbleweed | `1.16.1` | ✅ latest |
+| 30d | 2026-10-05 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-05 | 0 | 6 | 1 | 0 | 0 | 8 |
+| 90d | 2026-08-06 | 0 | 8 | 1 | 0 | 0 | 10 |
+| last180d | 2026-05-08 | 0 | 9 | 1 | 0 | 0 | 11 |
+| 360d | 2025-11-09 | 1 | 25 | 1 | 5 | 0 | 57 |
+| last720d | 2024-11-14 | 3 | 28 | 1 | 8 | 1 | 106 |
 
 ## Improve this data
 
@@ -88,4 +73,4 @@ Install metadata for iredis lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:04:01Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:38:47Z._
