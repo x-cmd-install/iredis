@@ -1,14 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: iredis
-  visiblename: iredis
-  version: 1.15.0
-  origversion: null
-  status: outdated
-  summary: Terminal Client for Redis with AutoCompletion and Syntax Highlighting
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - BSD-3-Clause
 - repo: aur
   srcname: iredis
   binname: iredis
@@ -139,6 +128,17 @@
   licenses:
     - BSD-3-Clause
 - repo: nix_stable_24_11
+  srcname: iredis
+  visiblename: iredis
+  version: 1.15.0
+  origversion: null
+  status: outdated
+  summary: Terminal Client for Redis with AutoCompletion and Syntax Highlighting
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_05
   srcname: iredis
   visiblename: iredis
   version: 1.15.0
@@ -351,6 +351,19 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: iredis
+  binnames:
+    - iredis
+  visiblename: iredis
+  version: 1.16.1
+  origversion: 1.16.1-2
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: iredis
   binnames:
     - iredis
