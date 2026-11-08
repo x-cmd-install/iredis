@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-08 | 0 | 6 | 1 | 0 | 0 | 8 |
-| 90d | 2026-08-09 | 0 | 8 | 1 | 0 | 0 | 10 |
-| last180d | 2026-05-11 | 0 | 9 | 1 | 0 | 0 | 11 |
-| 360d | 2025-11-12 | 1 | 25 | 1 | 5 | 0 | 57 |
-| last720d | 2024-11-17 | 3 | 28 | 1 | 8 | 1 | 106 |
+| 30d | 2026-10-09 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-09 | 0 | 6 | 1 | 0 | 0 | 7 |
+| 90d | 2026-08-10 | 0 | 8 | 1 | 0 | 0 | 10 |
+| last180d | 2026-05-12 | 0 | 9 | 1 | 0 | 0 | 11 |
+| 360d | 2025-11-13 | 1 | 25 | 1 | 5 | 0 | 57 |
+| last720d | 2024-11-18 | 3 | 28 | 1 | 8 | 1 | 106 |
 
 ## Distribution status
 
-Reported by **31** distros on [repology.org](https://repology.org/project/iredis). **13** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **32** distros on [repology.org](https://repology.org/project/iredis). **14** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -88,4 +88,4 @@ Install metadata for iredis lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:08:40Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:13:13Z._
