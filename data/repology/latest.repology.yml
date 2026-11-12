@@ -1,3 +1,54 @@
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: iredis
+  binnames:
+    - iredis
+  visiblename: iredis
+  version: 1.16.1
+  origversion: 1.16.1-3
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: iredis
+  visiblename: iredis
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal Client for Redis with AutoCompletion and Syntax Highlighting
+- repo: homebrew
+  srcname: iredis
+  visiblename: iredis
+  version: 1.16.1
+  origversion: null
+  status: newest
+  summary: Terminal Client for Redis with AutoCompletion and Syntax Highlighting
+- repo: kali_rolling
+  subrepo: main
+  srcname: iredis
+  binnames:
+    - iredis
+  visiblename: iredis
+  version: 1.16.1
+  origversion: 1.16.1-3
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: nix_stable_24_05
+  srcname: iredis
+  visiblename: iredis
+  version: 1.15.0
+  origversion: null
+  status: outdated
+  summary: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - BSD-3-Clause
 - repo: aur
   srcname: iredis
   binname: iredis
@@ -76,57 +127,6 @@
     - daniel@debian.org
   categories:
     - database
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: iredis
-  binnames:
-    - iredis
-  visiblename: iredis
-  version: 1.16.1
-  origversion: 1.16.1-3
-  status: newest
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - misc
-- repo: homebrew
-  srcname: iredis
-  visiblename: iredis
-  version: 1.16.1
-  origversion: null
-  status: newest
-  summary: Terminal Client for Redis with AutoCompletion and Syntax Highlighting
-- repo: homebrew
-  srcname: iredis
-  visiblename: iredis
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Terminal Client for Redis with AutoCompletion and Syntax Highlighting
-- repo: kali_rolling
-  subrepo: main
-  srcname: iredis
-  binnames:
-    - iredis
-  visiblename: iredis
-  version: 1.16.1
-  origversion: 1.16.1-3
-  status: newest
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - misc
-- repo: nix_stable_24_05
-  srcname: iredis
-  visiblename: iredis
-  version: 1.15.0
-  origversion: null
-  status: outdated
-  summary: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - BSD-3-Clause
 - repo: nix_stable_24_11
   srcname: iredis
   visiblename: iredis
