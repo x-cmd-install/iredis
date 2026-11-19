@@ -24,16 +24,6 @@ Total: **27,241** lines of code across **72** files in the top 5 languages.
 | Svg | 210 | 0 | 4 | 1 |
 | Toml | 48 | 1 | 6 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.1 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/laixintao/iredis>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,764 · **Forks**: 118 · **Open issues**: 227 · **Contributors**: 35
+- **Stars**: 2,765 · **Forks**: 118 · **Open issues**: 227 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-17 | 0 | 5 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-18 | 0 | 8 | 1 | 0 | 0 | 10 |
-| last180d | 2026-05-20 | 0 | 9 | 1 | 0 | 0 | 11 |
-| 360d | 2025-11-21 | 1 | 25 | 1 | 5 | 0 | 57 |
-| last720d | 2024-11-26 | 3 | 28 | 1 | 8 | 1 | 106 |
+| 30d | 2026-10-20 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-20 | 0 | 5 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-21 | 0 | 8 | 1 | 0 | 0 | 10 |
+| last180d | 2026-05-23 | 0 | 9 | 1 | 0 | 0 | 11 |
+| 360d | 2025-11-24 | 1 | 25 | 1 | 5 | 0 | 57 |
+| last720d | 2024-11-29 | 3 | 28 | 1 | 8 | 1 | 106 |
 
 ## Distribution status
 
@@ -88,4 +78,4 @@ Install metadata for iredis lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:51:57Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:46:15Z._
