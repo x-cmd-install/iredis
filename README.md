@@ -37,22 +37,22 @@ Total: **27,241** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,764 · **Forks**: 118 · **Open issues**: 227 · **Contributors**: 35
+- **Stars**: 2,764 · **Forks**: 119 · **Open issues**: 227 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 270 · **Open PRs**: 1 · **Closed issues**: 179 · **Open issues**: 48 · **Commits**: 1811
+- **Releases**: 47 · **Merged PRs**: 270 · **Open PRs**: 3 · **Closed issues**: 179 · **Open issues**: 48 · **Commits**: 1811
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-21 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-22 | 0 | 8 | 1 | 0 | 0 | 10 |
-| last180d | 2026-05-24 | 0 | 9 | 1 | 0 | 0 | 11 |
-| 360d | 2025-11-25 | 1 | 25 | 1 | 5 | 0 | 57 |
-| last720d | 2024-11-30 | 3 | 28 | 1 | 8 | 1 | 106 |
+| 30d | 2026-10-22 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-09-22 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 90d | 2026-08-23 | 0 | 8 | 3 | 0 | 0 | 10 |
+| last180d | 2026-05-25 | 0 | 9 | 3 | 0 | 0 | 11 |
+| 360d | 2025-11-26 | 1 | 25 | 3 | 5 | 0 | 57 |
+| last720d | 2024-12-01 | 3 | 28 | 3 | 8 | 1 | 106 |
 
 ## Distribution status
 
@@ -78,4 +78,4 @@ Install metadata for iredis lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:20:03Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:01:13Z._
